@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+
+}
+.div{
+  background-color: #b6ffea;
+  padding-top: 100px;
+  position: relative;
+}
+h1{
+  padding: 20px;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.font{
+  text-decoration: underline;
+}
+p{
+  margin-top: 0px;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #fdeced;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile{
+  background-color: #c9d99e;
+
+}
+.mypic{
+  width: 100px;
+  height:100px;
+}
+.skill1{
+  width: 100px;
+  height:100px;
+  background-color: red;
+  border-radius: 50%;
+}
+.skill2{
+  width: 150px;
+  height:200px;
+  border-radius: 50%;
+  background-color: blue;
+}
+.skills{
+  background-color: #b2e4d5;
+}
+.firskills{
+  font-family: 'Jomolhari', serif;
+}
+.secskills{
+  font-family: 'Open Sans', sans-serif;
+}
+.contact-me{
+  background-color: #e6f8f9;
+}
+.desc{
+  font-weight:normal;
+  background-color: #c6cbef;
+}
